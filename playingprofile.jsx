@@ -24,7 +24,7 @@ export default function Profile() {
                     height: user.imageSize
                 }} />
         </><>
-                <h1>{'Qualifications'}</h1>
+                <h2>{'Qualifications'}</h2>
                 <li
                     key={qualifications.id}
                     >
